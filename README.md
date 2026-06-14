@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mano R. P.
 
-<!--
-**mano-rp/mano-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.E. Computer Science & Engineering (Cyber Security) Student
 
-Here are some ideas to get you started:
+Engineering student building a strong foundation in core computer science, secure code design, and information security methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack & Skills
+* Data Structures & Algorithms
+* Computer Networks
+* Operating System Architecture
+* Python
+* C/C++
+* Java
+
+## Cyber Security & Systems
+* Linux (Kali / Ubuntu)
+* Wireshark & Packet Analysis
+* Python (Security Automation)
+* Git & Version Control
+
+---
+
+## Contact & Professional Links
+* LinkedIn: [Awaiting Profile Setup](#)
+* Email: [mano.rp@proton.me](mailto:mano.rp@proton.me)
