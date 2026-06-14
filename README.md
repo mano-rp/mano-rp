@@ -23,5 +23,5 @@ Engineering student building a strong foundation in core computer science, secur
 ---
 
 ## Contact & Professional Links
-* LinkedIn: [Awaiting Profile Setup](#)
+* LinkedIn: [linkedin.com/in/mano-rp](https://www.linkedin.com/in/mano-rp/)
 * Email: [mano.rp@proton.me](mailto:mano.rp@proton.me)
